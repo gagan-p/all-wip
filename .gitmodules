@@ -1,0 +1,3 @@
+[submodule "llm-templates"]
+	path = llm-templates
+	url = https://github.com/gagan-p/personal-llm-workflow-related.git
