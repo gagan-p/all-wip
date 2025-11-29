@@ -1,3 +1,6 @@
 [submodule "llm-templates"]
 	path = llm-templates
 	url = https://github.com/gagan-p/personal-llm-workflow-related.git
+[submodule "personal-emacs-config"]
+	path = personal-emacs-config
+	url = https://github.com/gagan-p/gp-.emacs.d.git
